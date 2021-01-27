@@ -1,1 +1,10 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Gruzovichkoff-test task
+
+ссылка на задание: https://yadi.sk/i/uaVCAlH_sDjWCA
+
+Технологический стек: ReactJS, NextJS, Material-UI
+
+Релизованные кейсы:
+- проведен рефакторинг заданного кода
+- изменен цвет заголовка при помощи Material-UI 
+- вывод записи в лог на стороне сервера
